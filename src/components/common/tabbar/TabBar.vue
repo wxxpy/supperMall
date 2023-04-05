@@ -13,6 +13,7 @@ export default {
 <style lang="less" scoped>
 
 #tab-bar{
+  z-index: 9;
   display: flex;
   background-color: #f6f6f6;
   position: fixed;
